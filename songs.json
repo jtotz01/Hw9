@@ -1,0 +1,74 @@
+songs =[{
+			"genre": ["Hip Hop", "Rap"],
+			"name": "Don't Like",
+			"artist": "Kanye West",
+			"year": "Released 2012"
+		},
+		{
+			"genre": ["Jazz"],
+			"name": "Round Midnight",
+			"artist": "Thelonious Monk",
+			"year": "Released 1947"
+		},
+		{
+			"genre": ["Rock", "Pop"],
+			"name": "The Scientist",
+			"artist": "Coldplay",
+			"year": "Released 2002"
+		},
+		{
+			"genre": ["Hip Hop"],
+			"name": "Tom Sawyer",
+			"artist": "Rush",
+			"year": "Released 1976"
+		},
+		{
+			"genre": ["Rock"],
+			"name": "Thunderstruck",
+			"artist": "AC/DC",
+			"year": "Released 1990"
+		},
+		{
+			"genre": ["Hip Hop", "R&B"],
+			"name": "Shut It Down",
+			"artist": "Drake",
+			"year": "Released 2010"
+		},
+		{
+			"genre": ["Jazz"],
+			"name": "All Blues",
+			"artist": "Miles Davis",
+			"year": "Released 1959"
+		},
+		{
+			"genre": ["Rock", "R&B", "Pop"],
+			"name": "Rock With You",
+			"artist": "Michael Jackson",
+			"year": "Released 1979"
+		},
+		{
+			"genre": ["Hip Hop", "R&B"],
+			"name": "Crazy in Love",
+			"artist": "Beyonce",
+			"year": "Released 2003"
+		},
+		{
+			"genre": ["Jazz"],
+			"name": "So What",
+			"artist": "Miles Davis",
+			"year": "Released 1959"
+		},
+		{
+			"genre": ["Rock", "R&B"],
+			"name": "Dream On",
+			"artist": "Aerosmith",
+			"year": "Released 1973"
+		},
+		{
+			"genre": ["Hip Hop", "R&B"],
+			"name": "Way 2 Sexy",
+			"artist": "Drake",
+			"year": "Released 2021"
+		}
+
+]
